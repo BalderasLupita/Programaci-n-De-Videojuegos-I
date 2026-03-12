@@ -26,10 +26,17 @@ Aquí detallo los módulos y temas que he completado hasta la fecha:
 ## 📂 Estructura del Repositorio
 
 * `/Documentacion`: Referencias teóricas y guías de apoyo (PDFs del curso).
+* [Prototype1.pdf](https://github.com/user-attachments/files/25949037/Prototype1.pdf)
+* [Prototype2.pdf](https://github.com/user-attachments/files/25949060/Prototype2.pdf)
+* [Prototype3.pdf](https://github.com/user-attachments/files/25949111/Prototype3.pdf)
+* 
+
+
 
 ## 🎥 Portafolio de Avances (Videos)
 Puedes ver las pruebas de funcionamiento y demostraciones de mis avances aquí:
 👉 **[Ver videos en Google Drive](AQUÍ_VA_TU_LINK_DE_DRIVE)**
+
 
 ---
 *Este repositorio es una recopilación personal basada en el programa "Create with Code".*
